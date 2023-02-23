@@ -1,7 +1,6 @@
 {
-  "name": "multirepo-b",
+  "name": "shared-repo",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.5.1",
     "@emotion/react": "^11.0.0",
